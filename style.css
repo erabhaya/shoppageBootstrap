@@ -1,0 +1,432 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    padding: 10px;
+}
+.book_li{
+    width: 30px;
+    height: 20px;
+    position: relative;
+    top: 5px; left: 10px;
+}
+.nav li h4{
+    font-size: small;
+    position: relative;top: 6px;
+}
+.form-control{
+    border-radius: 50px;
+    width: 250px;
+    height: 30px;
+    font-size: xx-small;
+}
+.bi-search{
+    color: red;
+    position: relative;
+    left: 220px; top: -24px;
+}
+.faq{
+    font-size: x-small;
+    position: relative; left: 50px;top: 10px;
+}
+.track{
+    font-size: x-small;
+    position: relative; left: 50px;top: 10px;
+
+}
+.bi-cart{
+    position: relative;left: 45px; top: 9px;
+}
+.badge-danger{
+    border-radius: 100%;
+    background-color: red;
+    position: relative; top: -10px; left: -9px;
+    width: 15px;height: 15px;
+}
+.signin{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-small;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    width: 70px; height: 25px;
+    position: relative;right: -40px;
+}
+.signin b{
+    position: relative;top: -5px;
+}
+.nav2 li{
+    font-size: x-small;
+    font-weight: 800;
+    position: relative;left: 200px; top: -20px;   
+}
+.fimg{
+    position: relative;top: -25px;
+}
+.browse{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: relative;
+    left: 300px; top: -150px;
+    width: 100px; height: 25px;
+    font-size: xx-small;
+    font-weight: 1000;
+}
+.browse b{
+    position: relative; top: -5px;
+}
+.fimg h3{
+    position: relative; top: -200px; left: 200px;
+    color: rgb(199, 108, 108);
+    /* width: 150px; */
+
+}
+.heading{
+    position: relative;top: -80px;
+}
+.stallFirst{
+    position: relative; top: -70px;
+}
+.stallFirst h6{
+    font-size: small;
+    font-weight: 800;
+}
+.stallFirst p{
+    font-size: xx-small;
+    /* text-align: center; */
+}
+.bi-star-fill{
+    font-size: small;
+    color: orange;
+    position: relative; top: -15px;
+}
+.stallFirst span{
+    position: relative; top: -15px;
+}
+.rev{
+    font-size: xx-small;
+}
+.midRed{
+    margin-top: -10px;
+}
+
+.red{
+    background-color: red;
+    border: 1px;
+    width: 70%;
+    height: 220px;
+    margin-top: -15px;
+}
+.vd{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 100px;
+    position: relative;
+    left: 300px; top: -100px;
+    width: 100px; height: 25px;
+    font-size: xx-small;
+    position: relative;left: -8px; top: 2px;
+}
+.vd b{
+    position: relative;
+    top: -6px;
+}
+.view{
+    position: relative;
+    left: 430px; top: -25px;
+    border-radius: 50px; width: 70px;
+}
+.red h4{
+    font-size: large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.red p{
+    font-size: small;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif 
+}
+.redreview{
+    font-size: xx-small;
+    margin-left: -70px;
+}
+.winter_details span b{
+position: relative;top: -20px;   
+font-size: larger; 
+}
+.winter_details .bi-star{
+    position: relative;
+    top: -25px;
+}
+.evan{
+    font-size: xx-small;
+}
+.midRed h5{
+    font-weight: 800;
+    font-size: small;
+}
+.latest h4{
+    font-weight: 800;
+    font-size: small;
+}
+
+.horror ul li{
+    font-size: xx-small;
+    font-weight: 800;
+    margin-top: -10px;
+    }
+.bookStall{
+    position: relative;
+    top: -180px;
+}
+/* .bookStall{
+    position: relative; top: -70px;
+} */
+.bookStall h6{
+    font-size: small;
+    font-weight: 800;
+}
+.bookStall p{
+    font-size: xx-small;
+    /* text-align: center; */
+}
+.bookStall span{
+    position: relative; top: -15px;
+}
+.browseStore{
+    background-color: white;
+    border: 1px solid red;
+    color: red;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 16px;
+    position: relative;
+    left: 0px; top: -100px;
+    width: 110px; height: 40px;
+    font-size: xx-small;
+    position: relative;top: -150px;
+
+}
+.twoImg{
+    margin-top: -60px;
+}
+
+.footer{
+    font-size: x-small;
+    margin-top: -220px;
+}
+.listTwo{
+    margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sun{ width: 100%; height: 300px;}
+
+#pic{
+    height: 200px;   
+}
+.featured{
+    width: 70%;
+}
+
+.joker{
+    height: 220px;
+    width: 150px;
+    position: relative;left: 530px; top: -280px;
+}
+
+.winter{
+    height: 170px;
+    width: 120px;
+    position: relative;
+    left: 40px; top: 20px;
+}
+.winter_details{
+    position: relative;
+    left: 180px; top: -140px;
+    color: white;
+}
+
+.latest{
+    position: relative; top:-200px;
+}
+
+
+#footerimg{
+    width: 350px;
+    height: 150px;
+    
+}
+.col-img{
+    width: 50%;
+    position: relative; top: -50px;
+}
+.blue{
+    width: 100%;
+    height: 170px;
+}
+.blue_inside p{
+    font-size: xx-small;
+    width: 45%;
+}
+.input_inside{
+    width: 100px;
+    height: 25px;
+    background-color: white;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  position: relative;top: -4px;
+  font-size: xx-small;
+}
+.blue_inside{
+    position: relative; top: -150px;
+    color: white;
+}
+
+.subscribe{
+    background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  width: 60px;
+  height: 25px;
+  font-size: x-small;
+}
+.book{
+    width: 30px;
+    height: 20px;
+}
+.footerLast{
+   
+    height: 220px;
+    position: relative;
+    top: -100px;
+}
+.iconFooter i{
+padding: 5px;
+}
+.history li{
+    font-size: small;
+}
+.subscribe b{
+    position: relative;
+    left: -14px; top: -5px;
+}
+#view b{
+    position: relative; top: --5px;
+}
+.col-img h3{
+font-size: medium;
+color: white;
+position: relative; top: -140px; left: 10px;
+width: 100px;
+}
+.blue_div{
+    position: relative; top: -100px;
+}
+.browseFoot b{
+    position: relative; top: -10px;
+}
+.vi{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    width: 100px;
+    height: 25px;
+    font-size: x-small; 
+    position: relative;top: -190px;left: 230px;
+}
+.viW{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    width: 100px;
+    height: 25px;
+    font-size: x-small; 
+    position: relative;left: 230px; top: -170px;
+}
+.vi b{
+    position: relative;top: -5px;
+}
+.viW b{
+    position: relative;top: -5px;
+}
